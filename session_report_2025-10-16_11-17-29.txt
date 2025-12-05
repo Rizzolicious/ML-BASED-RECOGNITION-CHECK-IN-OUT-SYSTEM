@@ -1,0 +1,13 @@
+=== COMPREHENSIVE FACE + POSTURE ANALYSIS REPORT ===
+Session Start: 16-Oct-2025 11:15:33
+Session End: 16-Oct-2025 11:17:29
+Duration: 1.9 minutes
+Total Frames: 417
+
+=== INDIVIDUAL ANALYSIS ===
+=== SECURITY EVENTS ===
+Total Security Events: 0
+
+=== DATA FILES ===
+Detailed CSV Log: posture_log_2025-10-16_11-15-23.csv
+Session Report: session_report_2025-10-16_11-17-29.txt
